@@ -98,29 +98,6 @@ class LastWindow(Widget):
         self.ids.label40.text = str(liste_ayrık[9][8:])
 
 
-        
-
-
-        
-            
-            
-
-        
-
-
-        
-                
-
-        
-
-        
-
-        
-
-        
-
-
-
 kv = Builder.load_file("deneme.kv")
 
 
